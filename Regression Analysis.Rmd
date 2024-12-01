@@ -1,0 +1,6 @@
+---
+title: "Analyzing Predictive Factors of Academic Success in University"
+subtitle: "A Linear Regression Analysis of High School Performance, SAT Scores, and Extracurricular Activities"
+author: "Student Name"
+output: word_document
+---
